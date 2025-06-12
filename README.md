@@ -1,25 +1,6 @@
-<style>
-@keyframes wave-animation {
-  0% { transform: rotate(0deg); }
-  10% { transform: rotate(14deg); }
-  20% { transform: rotate(-8deg); }
-  30% { transform: rotate(14deg); }
-  40% { transform: rotate(-4deg); }
-  50% { transform: rotate(10deg); }
-  60% { transform: rotate(0deg); }
-  100% { transform: rotate(0deg); }
-}
-.wave {
-  display: inline-block;
-  transform-origin: 70% 70%;
-  animation: wave-animation 2s infinite;
-}
-</style>
-
 <h1 align="center">
-  Hi, I'm Elijah Kaizzi <span class="wave">👋🏾</span>
+  Hi, I'm Elijah Kaizzi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand-medium-dark-skin-tone_1f44b-1f3fe.gif" alt="👋🏾" width="36" style="vertical-align:middle" />
 </h1>
-
 
 <p align="center">A mind open to learn and push boundaries in tech — all the way from Uganda 🇺🇬  </p> <br>
 
