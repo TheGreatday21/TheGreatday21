@@ -2,7 +2,6 @@
 
 <p align="center">A mind open to learn and push boundaries in tech — all the way from Uganda 🇺🇬  </p> <br>
 
-<strong>I am:</strong>
 <p align = "center"><ul>
         <li align="center">🎓 Currently studying <strong>Data Science and Analytics</strong> at <strong>Uganda Christian University</strong></li>
         <li align="center">💪 Tech enthusiast and an avid 🚗 Gearhead </li>
