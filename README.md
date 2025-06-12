@@ -5,7 +5,7 @@
 <strong>I am:</strong>
 <p align = "center"><ul>
         <li align="center">🎓 Currently studying <strong>Data Science and Analytics</strong> at <strong>Uganda Christian University</strong></li>
-        <li align="center">💪 Tech enthusiast | 🚗 Gearhead | 📈 Data Explorer</li>
+        <li align="center">💪 Tech enthusiast and an avid 🚗 Gearhead </li>
         <li align="center">📫 Reach me at: <a href="mailto:kaizzielijah@gmail.com">kaizzielijah@gmail.com</a></li>
     </ul>
   </p>
@@ -22,7 +22,7 @@
 
 ### 🧠 General Purpose Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+<br>
 ### 🧾 Documentation
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex) ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
 
