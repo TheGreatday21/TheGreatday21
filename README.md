@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Elijah Kaizzi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand-medium-dark-skin-tone_1f44b-1f3fe.gif" alt="👋🏾" width="40" style="vertical-align:middle" />
+  Hi, I'm Elijah Kaizzi <img src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand-medium-dark-skin-tone_1f44b-1f3fe.gif" alt="👋🏾" width="30px" style="vertical-align:middle" />
 </h1>
 
 
