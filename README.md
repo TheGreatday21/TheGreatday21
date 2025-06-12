@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Elijah Kaizzi 👋🏾</h1>
 
-<p align="center">A mind open to learn and push boundaries in tech — all the way from Uganda 🇺🇬     </p>
+<p align="center">A mind open to learn and push boundaries in tech — all the way from Uganda 🇺🇬     </p> <br>
 
 <strong>I am:</strong>
 <p align = "center"><ul>
@@ -17,7 +17,7 @@
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheGreatday21&theme=radical)
   
-<br>
+<br><br>
 ## 💻 Tech Stack
 
 ### 🧠 General Purpose Programming Languages
@@ -62,3 +62,4 @@
 ## ✍️ Random Dev Quote
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”  
 > — *Martin Fowler*
+<br><br>
