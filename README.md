@@ -1,9 +1,7 @@
 <h1 align="center">
   Hi, I'm Elijah Kaizzi 
-  <img src="https://media.tenor.com/XMghFhHCCfMAAAAi/waving-hand-dark-skin-tone.gif" width="30px" alt="waving hand"/>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"/>
 </h1>
-
-
 <p align="center">A mind open to learn and push boundaries in tech — all the way from Uganda 🇺🇬  </p> <br>
 
 ## <strong>About me</strong>
