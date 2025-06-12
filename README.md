@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Elijah Kaizzi 👋🏾</h1>
+<h1 align="center">
+  Hi, I'm Elijah Kaizzi 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="waving hand"/>
+</h1>
 
 <p align="center">A mind open to learn and push boundaries in tech — all the way from Uganda 🇺🇬  </p> <br>
 
@@ -6,7 +9,7 @@
 <p align = "center"><ul>
         <li align="center">🎓 Currently studying <strong>Data Science and Analytics</strong> at <strong>Uganda Christian University</strong></li>
         <li align="center">💪 Tech enthusiast and an avid 🚗 Gearhead </li>
-        <li align="center">📫 Reach me at: <a href="mailto:kaizzielijah@gmail.com">kaizzielijah@gmail.com</a></li>
+        <li align="center">📫 Reach me at: <a href="mailto:kaizzielijah@gmail.com">kaizzielijah@gmail.com</a> | <a href="https://www.linkedin.com/in/kaizzielijah/">elijahkaizzi_on_linkedin</a></li>
     </ul>
   </p>
   <br>
