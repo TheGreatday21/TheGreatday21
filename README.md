@@ -9,6 +9,7 @@
         <li align="center">📫 Reach me at: <a href="mailto:kaizzielijah@gmail.com">kaizzielijah@gmail.com</a></li>
     </ul>
   </p>
+  <br>
 
 ## 📊 GitHub Stats
 <!-- GitHub Stats Card -->
@@ -16,7 +17,7 @@
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheGreatday21&theme=radical)
   
-
+<br>
 ## 💻 Tech Stack
 
 ### 🧠 General Purpose Programming Languages
@@ -56,8 +57,7 @@
 ### 🖥️ OS & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white) ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white) ![balenaEtcher](https://img.shields.io/badge/balenaEtcher-0081C6?style=for-the-badge) ![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
-
-
+<br><br>
 
 ## ✍️ Random Dev Quote
 > “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”  
