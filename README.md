@@ -2,11 +2,11 @@
 
 <p align="center">A mind open to learn and push boundaries in tech — all the way from Uganda 🇺🇬</p>
 
-<p align="center">🎓 Currently studying <strong>Data Science and Analytics</strong> at <strong>Uganda Christian University</strong></p>
+<p align="right">🎓 Currently studying <strong>Data Science and Analytics</strong> at <strong>Uganda Christian University</strong></p>
 
-<p align="center">💪 Tech enthusiast and an avid 🚗 Gearhead </p>
+<p align="right">💪 Tech enthusiast and an avid 🚗 Gearhead </p>
 
-<p align="center">📫 Reach me at: <a href="mailto:kaizzielijah@gmail.com">kaizzielijah@gmail.com</a></p>
+<p align="right">📫 Reach me at: <a href="mailto:kaizzielijah@gmail.com">kaizzielijah@gmail.com</a></p>
 
 ---
 
