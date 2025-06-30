@@ -18,8 +18,8 @@
 ![Elijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGreatday21&show_icons=true&theme=radical)
 <!-- GitHub Streak -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheGreatday21&theme=radical)
-
-[![Iam currrently ranked](https://user-badge.committers.top/uganda_public/TheGreatday21.svg)](https://user-badge.committers.top/uganda_public/TheGreatday21)
+<br>
+[![committers.top badge](https://user-badge.committers.top/uganda/TheGreatday21.svg)](https://user-badge.committers.top/uganda/TheGreatday21)
 
 <br><br>
 ## 💻 Tech Stack
