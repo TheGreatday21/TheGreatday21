@@ -16,8 +16,11 @@
 ## 📊 GitHub Stats
 <!-- GitHub Stats Card -->
 ![Elijah's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheGreatday21&show_icons=true&theme=radical)
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheGreatday21&theme=radical)
+
+<!-- languages used  -->
+## Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatday21&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 [![committers.top badge](https://user-badge.committers.top/uganda/TheGreatday21.svg)](https://user-badge.committers.top/uganda/TheGreatday21)
 
