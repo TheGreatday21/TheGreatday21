@@ -20,7 +20,6 @@
 <!-- languages used  -->
 ## Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatday21&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 [![committers.top badge](https://user-badge.committers.top/uganda/TheGreatday21.svg)](https://user-badge.committers.top/uganda/TheGreatday21)
 
