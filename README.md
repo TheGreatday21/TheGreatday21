@@ -1,9 +1,9 @@
 # Elijah Kaizzi
 
 **Data Science & Software Engineering Student**  
-Uganda Christian University | Kampala, Uganda 🇺🇬  
+Uganda Christian University | Mukono, Uganda 🇺🇬  
 
-I am a Data Science and Analytics undergraduate with a strong foundation in software engineering, data analysis, and systems thinking. I build practical projects that translate data into insight and code into reliable systems. My focus is on learning by building, documenting, and iterating.
+I am a Data Science and Analytics undergraduate with a strong foundation in software engineering, data analysis,networking and system administration of recent.  I build practical projects that translate data into insight and code into reliable systems. My focus is on learning by building, documenting, and iterating.
 
 📧 Email: kaizzielijah@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/kaizzielijah  
@@ -57,15 +57,6 @@ I am a Data Science and Analytics undergraduate with a strong foundation in soft
 - VS Code
 - LaTeX, Markdown
 
-
---- 
-
-## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGreatday21&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatday21&layout=compact&theme=radical)
-
 ---
 
 ## 🌍 Communities & Practice
@@ -76,6 +67,15 @@ I am a Data Science and Analytics undergraduate with a strong foundation in soft
 - Advent of Code
 - Slack
 - Discord
+  
+--- 
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGreatday21&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreatday21&layout=compact&theme=radical)
+
 
 ---
 
