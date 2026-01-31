@@ -70,7 +70,6 @@ I am a Data Science and Analytics undergraduate with a strong foundation in soft
   
 --- 
 
-## 📊 GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheGreatday21&show_icons=true&theme=radical)
 
